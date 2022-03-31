@@ -112,3 +112,15 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+Data Backup/msk-redefining-cancer-treatment.zip
+Data Backup/stage1_solution_filtered.csv
+Data Backup/stage2_sample_submission.csv
+Data Backup/stage2_test_text.csv
+Data Backup/stage2_test_variants.csv
+Data Backup/stage_2_private_solution.csv
+Data Backup/test_text
+Data Backup/test_variants
+Data Backup/training_text
+Data Backup/training_variants
+test_text
+training_text

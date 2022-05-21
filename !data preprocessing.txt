@@ -1,0 +1,9 @@
+Data Preprocessing:
+
+Replace any NULL rows in the TEXT column with a concatenation of Gene+Variation
+Remove StopWords
+Replace all special characters with a space
+Replace multiple spaces with a single space
+Convert all text to lowercase
+
+--------------------
